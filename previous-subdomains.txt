@@ -1,5 +1,5 @@
+products.example.com
+support.example.com
 www.example.com
 m.example.com
 dev.example.com
-products.example.com
-support.example.com
